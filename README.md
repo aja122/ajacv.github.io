@@ -1,2 +1,2 @@
 # ajacv.github.io
-ESPERO QUE LES GUSTE MI CV. Saludox
+La reentrega es la carpeta que se llama "Proyecto Final". Espero responder a  las observaciones.
